@@ -14,7 +14,7 @@ this is a fully functional e-commerce website built using React.js, Redux, React
  
 ### 1. Image Carousel
 
-Humari Dukaan showcases a visually appealing image carousel on the homepage, allowing users to view featured products or promotions in an interactive and engaging manner.
+Eeecom showcases a visually appealing image carousel on the homepage, allowing users to view featured products or promotions in an interactive and engaging manner.
 
 ### 2. Scroll Animations
 
